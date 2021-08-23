@@ -11,7 +11,7 @@ Here's me at a glance:
 - 👯 I’m looking to collaborate on open source projects. 
 - 🤔 I’m looking for help with algorithim design.
 - 💬 Ask me about growth methods and ROI improvement from software design.
-- 📫 How to reach me: rstevewdevjr@gmail.com
+- 📫 How to reach me: stevewdevjr@gmail.com
 
      
 
@@ -37,7 +37,7 @@ Here's me at a glance:
 
 
 [linkedin]: https://www.linkedin.com/in/steve-w-dames-jr/
-[WebDevJuniorplaylist]: https://www.youtube.com/user/stevedamesjr/featured
+[youtube]: https://www.youtube.com/user/stevedamesjr/featured
 [vscode]: https://code.visualstudio.com/
 [Twitter]: https://twitter.com/Steve88312331
 
