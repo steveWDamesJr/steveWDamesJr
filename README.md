@@ -37,7 +37,7 @@ Here's me at a glance:
 
 
 [linkedin]: https://www.linkedin.com/in/steve-w-dames-jr/
-[WebDevJuniorplaylist]: https://www.youtube.com/watch?v=ZeGWIp_c1hc&list=PL30-XgpqYvgfDMMJeDurCkHKiw5CHy8lV
+[WebDevJuniorplaylist]: https://www.youtube.com/user/stevedamesjr/featured
 [vscode]: https://code.visualstudio.com/
 [Twitter]: https://twitter.com/Steve88312331
 
