@@ -7,7 +7,7 @@
 Here's me at a glance:
 
 - 🔭 I’m currently working on building a software library of skills
-- 🌱 I’m currently learning my first of a goal of 8 programing languages
+- 🌱 I’m currently mastering my first of a goal of 8 programing languages
 - 👯 I’m looking to collaborate on open source projects. 
 - 🤔 I’m looking for help with algorithim design.
 - 💬 Ask me about growth methods and ROI improvement from software design.
