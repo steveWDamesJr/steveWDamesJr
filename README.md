@@ -13,6 +13,13 @@ Here's me at a glance:
 - 💬 Ask me about growth methods and ROI improvement from software design.
 - 📫 How to reach me: stevewdevjr@gmail.com
 
+
+
+### Where I study: Life long support network and career assistance once a student -- [Microverse](https://www.microverse.org/?grsf=qmokuo)
+What a great family. Has removed all barriers to obtaining a education in software engineering / software development.
+No upfront costs | **Value Value Value** from day 1 | 100% Remote | Free Pair Programming practice sessions with global network of applicants just like you. 
+
+### Connect with me via 
      
 
 
