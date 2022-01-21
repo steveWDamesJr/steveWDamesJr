@@ -13,6 +13,9 @@ Here's me at a glance:
 - 💬 Ask me about growth methods and ROI improvement from software design.
 - 📫 How to reach me: stevewdevjr@gmail.com
 
+### What I've been up to
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveWDamesJr&show_icons=true&theme=radical&count_private=true)
 
 
 ### Where I study: Life long support network and career assistance once a student -- [Microverse](https://www.microverse.org/?grsf=qmokuo)
