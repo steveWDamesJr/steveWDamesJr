@@ -1,5 +1,7 @@
 ### Hi there, I'm Steve - aka WebDevJunior 👋
 
+<img src="./images/Github-banner.png" alt="banner that says Steve W Dames Jr - software engineer, Teacher / Mentor and Coordinator of Multi-national Group of Developers and Engineers`">
+
 ### I'm passionate about the development of people, teams and Software!
 
 <!-- **steveWDamesJr/steveWDamesJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
