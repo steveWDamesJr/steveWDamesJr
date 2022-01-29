@@ -10,19 +10,18 @@ Here's me at a glance:
 
 - 🔭 I’m currently working on building a software library of skills
 - 🌱 I’m currently mastering my first of a goal of 8 programing languages
-- 👯 I’m looking to collaborate on open source projects. 
-- 🤔 I’m looking for help with algorithim design.
-- 💬 Ask me about growth methods and ROI improvement from software design.
-- 📫 How to reach me: stevewdevjr@gmail.com
+- 👯 I’m looking to collaborate on open source projects 
+- 🤔 I’m looking for help with algorithim design
+- 💬 Ask me about growth methods and ROI improvement from software design
 
 ### What I've been up to
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveWDamesJr&show_icons=true&theme=radical&count_private=true)
 
 
-### Where I study: Life long support network and career assistance once a student -- [Microverse](https://www.microverse.org/?grsf=qmokuo)
-What a great family. Has removed all barriers to obtaining a education in software engineering / software development.
-No upfront costs | **Value Value Value** from day 1 | 100% Remote | Free Pair Programming practice sessions with global network of applicants just like you. 
+### Where I study: Life-long support network and career assistance once you're a full-time student -- [Microverse](https://www.microverse.org/?grsf=qmokuo)
+What a great family. Microverse helps remove barriers to education in software engineering / software development.
+🚀 No upfront costs | **Value Value Value** from day 1 | 100% Remote | Free Pair Programming practice sessions with global network of applicants just like you. 
 
 ### Connect with me via 
      
