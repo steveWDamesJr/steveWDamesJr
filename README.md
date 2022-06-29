@@ -18,6 +18,9 @@ Here's me at a glance:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=steveWDamesJr&show_icons=true&theme=radical&count_private=true)
 
+### Github Contributions Rank - The Bahamas:
+[![committers.top badge](https://user-badge.committers.top/the_bahamas/steveWDamesJr.svg)](https://user-badge.committers.top/the_bahamas/steveWDamesJr)
+
 
 ### Where I study: Life-long support network and career assistance once you're a full-time student -- [Microverse](https://www.microverse.org/?grsf=qmokuo)
 What a great family. Microverse helps remove barriers to education in software engineering / software development.
