@@ -1,6 +1,7 @@
 ### Hi there, I'm Steve - aka WebDevJunior 👋
 
-<img src="./images/Github-banner.png" alt="banner that says Steve W Dames Jr - software engineer, Teacher / Mentor and Coordinator of Multi-national Group of Developers and Engineers`">
+![Full-Stack Web Developer Banner(2)](https://user-images.githubusercontent.com/81635839/196625617-21c75b09-5079-4809-bbe4-f06da7c7435b.png)
+
 
 ### I'm passionate about the development of people, teams and Software!
 
