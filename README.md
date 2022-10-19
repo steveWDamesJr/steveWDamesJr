@@ -1,6 +1,6 @@
 ### Hi there, I'm Steve - aka WebDevJunior 👋
 
-![Full-Stack Web Developer Banner(2)](https://user-images.githubusercontent.com/81635839/196625617-21c75b09-5079-4809-bbe4-f06da7c7435b.png)
+![Full-Stack Web Developer Banner - Github](https://user-images.githubusercontent.com/81635839/196627132-26dd1ae3-eb7d-4d96-b127-5683bfc6128e.png)
 
 
 ### I'm passionate about the development of people, teams and Software!
