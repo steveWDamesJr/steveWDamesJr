@@ -60,7 +60,7 @@ What a great family. Microverse helps remove barriers to education in software e
 [linkedin]: https://www.linkedin.com/in/steve-w-dames-jr/
 [youtube]: https://www.youtube.com/user/stevedamesjr/featured
 [vscode]: https://code.visualstudio.com/
-[Twitter]: https://twitter.com/Steve88312331
+[Twitter]: https://twitter.com/Stevewdamesjr
 
 
 
